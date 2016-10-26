@@ -1,0 +1,7 @@
+<br>
+<h2>Dashboard</h2>
+<div>
+  {{#each model as |book|}}
+    {{blog-post book=book update="update" destroyPost="destroyPost"}}
+  {{/each}}
+</div>
