@@ -1,13 +1,10 @@
 body {
   background-color: #f2f2f2;
-  font-family: 'Cormorant Garamond', serif;
+  /*font-family: 'Cormorant Garamond', serif;*/
 }
 
-.nav {
-  width: 100%;
-  height: 60px;
-  background-color: white;
-  text-align: center;
+p {
+  font-family: 'Cormorant Garamond', serif;
 }
 
 h3 {
@@ -16,6 +13,21 @@ h3 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 30px;
   color: #2eb8b8;
+}
+
+.image {
+  width: 82%;
+  margin-left: 9%;
+  height: 500px;
+  background: url("https://www.bellanaija.com/wp-content/uploads/2014/07/Chimamanda-Ngozi-Adichie-July-2014-BN-Beauty-BellaNaija.com-02.jpg");
+  background-repeat: no-repeat;
+}
+
+.nav {
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  text-align: center;
 }
 
 .fa-bars {
@@ -82,6 +94,30 @@ h3 {
 
 .close:hover {
   color: black;
+}
+
+/* ------ posts ----- */
+
+.post-date {
+  font-size: 14px;
+  color: #2eb8b8;
+  font-family:'Josefin Sans', sans-serif;
+}
+
+.post-title {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 19px;
+}
+
+.post:first-child {
+  margin-top: 30px;
+}
+
+.post-content p {
+  font-size: 15px;
+  font-style: italic;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .footer {
