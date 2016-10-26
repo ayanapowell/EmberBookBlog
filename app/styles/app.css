@@ -131,6 +131,14 @@ h3 {
   border-radius: 10px;
 }
 
+.fa-trash {
+  float: right;
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
 .footer {
   text-align: center;
 }

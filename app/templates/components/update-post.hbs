@@ -31,7 +31,7 @@
         </div>
       </div>
       <div class="form-group col-md-12">
-      {{input value=post id="post" class="form-control"}}
+      <textarea rows="7" class="form-control"{{input value=post id="post" class="form-control"}}>{{book.post}}</textarea>
       </div>
       <button class="fluid ui button col-md-12" {{action 'update' book}}>Save</button>
     </form>

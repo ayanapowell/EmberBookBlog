@@ -13,7 +13,7 @@ export default Ember.Route.extend({
         }
       });
       book.save();
-      this.transitionTo('index');
+      this.transitionTo('admin');
     },
     savePost(params) {
       var newPost = this.store.createRecord('book', params);

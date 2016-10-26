@@ -5,6 +5,7 @@
      <h4 class="post-title">{{book.postTitle}}</h4>
      <h5 class="post-author">By: {{book.postAuthor}}</h5>
      {{update-post book=book update="update"}}
+     <i class="fa fa-trash" aria-hidden="true" {{action 'destroyPost' book}}></i>
     </div>
   </div>
 </div>
