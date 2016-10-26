@@ -7,12 +7,12 @@ export default Ember.Route.extend({
   actions: {
     update(book, params) {
       Object.keys(params).forEach(function(key) {
-        if(params[key]!==undefined) {
+        if(params[key]!== undefined) {
           book.set(key, params[key]);
         }
       });
       book.save();
-      this.transitionTo('admin');
+      this.transitionTo('index');
     },
     savePost(params) {
       var newPost = this.store.createRecord('book', params);

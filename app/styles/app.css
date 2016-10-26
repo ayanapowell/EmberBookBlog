@@ -120,6 +120,16 @@ h3 {
   padding-right: 20px;
 }
 
+/* ---------- admin ----------*/
+.update-form {
+  background-color: #fff;
+  padding: 50px;
+  margin-left: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
 .footer {
   text-align: center;
 }

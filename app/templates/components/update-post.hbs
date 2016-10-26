@@ -1,1 +1,41 @@
-{{yield}}
+{{#if updatePostForm}}
+  <div class="row update-form">
+    <form>
+      <div class="col-md-5">
+        <div class="form-group">
+          {{input value=bookTitle id="bookTitle" placeholder= "Book Title" class="form-control"}}
+        </div>
+        <div class="form-group">
+          {{input value=author id="author" placeholder="Book Author" class="form-control"}}
+        </div>
+        <div class="form-group">
+          {{input value=image id="image" placeholder="Image URL" class="form-control"}}
+        </div>
+        <div class="form-group">
+          {{input value=buyLink id="buyLink" placeholder="Link to purchase book" class="form-control"}}
+        </div>
+      </div>
+      <div class="col-md-7">
+        <div class="form-group">
+          {{input value=postTitle id="postTitle" placeholder="Post Title" class="form-control"}}
+        </div>
+        <div class="form-group">
+          {{input value=postAuthor id="postAuthor" placeholder="Name" class="form-control"}}
+        </div>
+        <div class="form-group">
+          {{input value=postDate id="postDate" placeholder="Date" class="form-control"}}
+        </div>
+
+        <div class="form-group">
+          {{input value=rating id="rating" placeholder="Rating" class="form-control"}}
+        </div>
+      </div>
+      <div class="form-group col-md-12">
+        <textarea class="form-control" rows="7" {{input value=post id="post" class="form-control"}}>{{book.post}}</textarea>
+      </div>
+      <button class="fluid ui button col-md-12" {{action 'update' book}}>Save</button>
+    </form>
+  </div>
+{{else}}
+    <button class="btn btn-default" {{action 'updatePostForm' book}}>Edit</button>
+{{/if}}
