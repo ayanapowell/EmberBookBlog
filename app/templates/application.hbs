@@ -3,7 +3,7 @@
     <div class="row">
       {{nav-button}}
       <div class="col-md-4">
-        <h3>ADICHIE</h3>
+        {{#link-to 'index'}}<h3>ADICHIE</h3>{{/link-to}}
       </div>
       <div class="icons col-md-4">
         <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -19,13 +19,13 @@
       {{close-button}}
       <br>
       <li class="sidebar-brand">
-        <a href="#">HOMEPAGE</a>
+        {{#link-to 'index'}}<a href="#">HOME</a>{{/link-to}}
       </li>
       <li>
-        <a href="#">About</a>
+        {{#link-to 'about'}}<a href="#">About</a>{{/link-to}}
       </li>
       <li>
-        <a href="#">Contact</a>
+      {{#link-to 'contact'}}<a href="#">Contact</a>{{/link-to}}
       </li>
       <li class="adminNav">
         <i class="fa fa-cogs" aria-hidden="true"></i><a href="#">  ADMIN</a>
