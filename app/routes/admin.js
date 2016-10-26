@@ -7,6 +7,7 @@ export default Ember.Route.extend({
   actions: {
     update(book, params) {
       Object.keys(params).forEach(function(key) {
+        console.log("here");
         if(params[key]!== undefined) {
           book.set(key, params[key]);
         }

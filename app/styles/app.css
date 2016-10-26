@@ -67,6 +67,7 @@ h3 {
   height: 1200px;
   position: fixed;
   padding-top: 10px;
+  z-index: 5;
 }
 
 .navContents a,
