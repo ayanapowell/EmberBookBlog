@@ -86,11 +86,15 @@ h3 {
 }
 
 .sidebar-brand {
-  padidng-top: 35px;
+  margin-top: 10;
 }
 .close {
   padding-bottom: 20px;
-  color: white;
+  color: #fff;
+  float: left;
+  font-size: 18px;
+  font-weight: bolder;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .close:hover {

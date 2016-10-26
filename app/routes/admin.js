@@ -16,6 +16,7 @@ export default Ember.Route.extend({
       this.transitionTo('admin');
     },
     savePost(params) {
+      alert("hi!");
       var newPost = this.store.createRecord('book', params);
       newPost.save();
       this.transitionTo('admin');

@@ -1,16 +1,18 @@
 <ul class="sidebar-nav">
   {{close-button}}
-  <br>
-  <li class="sidebar-brand">
-    {{#link-to 'index'}}<a href="#">HOME</a>{{/link-to}}
-  </li>
-  <li>
-    {{#link-to 'about'}}<a href="#">About</a>{{/link-to}}
-  </li>
-  <li>
-  {{#link-to 'contact'}}<a href="#">Contact</a>{{/link-to}}
-  </li>
-  <li class="adminNav">
-  {{#link-to 'admin'}}<i class="fa fa-cogs" aria-hidden="true"></i><a href="#">  ADMIN</a>{{/link-to}}
-  </li>
+  <div class="sidebar-brand">
+    <br><br><br>
+    <li>
+      {{#link-to 'index'}}<a href="#">HOME</a>{{/link-to}}
+    </li>
+    <li>
+      {{#link-to 'about'}}<a href="#">About</a>{{/link-to}}
+    </li>
+    <li>
+    {{#link-to 'contact'}}<a href="#">Contact</a>{{/link-to}}
+    </li>
+    <li class="adminNav">
+    {{#link-to 'admin'}}<i class="fa fa-cogs" aria-hidden="true"></i><a href="#">  ADMIN</a>{{/link-to}}
+    </li>
+  </div>
 </ul>
