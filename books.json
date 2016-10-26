@@ -1,0 +1,36 @@
+{ "books": [
+  {
+    "bookTitle": "Americanah",
+    "bookAuthor": "Chimamanda Ngozi Adichie",
+    "rating": 5,
+    "image": "http://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "buyLink": "https://www.amazon.com/Americanah-Chimamanda-Ngozi-Adichie/dp/0307455920/ref=sr_1_1?s=books&ie=UTF8&qid=1477501686&sr=1-1&keywords=americanah",
+    "postTitle": "Spanning three continents, entering the lives of a richly drawn cast of characters across numerous divides, Americanah is a riveting story of love and expectation set in today&#39;s globalized world.",
+    "postAuthor": "Biggy P",
+    "postDate": "October 25, 2016",
+    "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "bookTitle": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "rating": 4.0,
+     "image": "http://books.google.com/books/content?id=eQh3sfhTVNsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+     "buyLink": "https://www.amazon.com/Half-Yellow-Chimamanda-Ngozi-Adichie/dp/1400095204/ref=sr_1_1?s=books&ie=UTF8&qid=1477501669&sr=1-1&keywords=half+of+a+yellow+sun",
+    "postTitle": "Epic, ambitious and triumphantly realized, Half of a Yellow Sun is a more powerful, dramatic and intensely emotional picture of modern Africa than any we have had before.",
+    "postAuthor": "Aimen K",
+    "postDate": "October 25, 2016",
+    "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "bookTitle": "We Should All Be Feminists",
+    "author": "Chimamanda Ngozi Adichie",
+    "rating": 4.0,
+   "image": "http://books.google.com/books/content?id=70vRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+   "buyLink": "https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X",
+    "postTitle": "Argued in the same observant, witty and clever prose that has made Adichie a bestselling novelist, here is one remarkable author’s exploration of what it means to be a woman today.",
+    "postAuthor": "Tom P",
+    "postDate": "October 25, 2016",
+    "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+   }
+ ]
+}

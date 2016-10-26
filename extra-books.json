@@ -1,0 +1,365 @@
+, {
+"saleInfo": {
+ "country": "US",
+ "saleability": "FOR_SALE",
+ "isEbook": true,
+ "listPrice": {
+  "amount": 2.99,
+  "currencyCode": "USD"
+ },
+ "retailPrice": {
+  "amount": 2.99,
+  "currencyCode": "USD"
+ },
+ "buyLink": "https://play.google.com/store/books/details?id=70vRAwAAQBAJ&rdid=book-70vRAwAAQBAJ&rdot=1&source=gbs_api",
+ "offers": [
+  {
+   "finskyOfferType": 1,
+   "listPrice": {
+    "amountInMicros": 2990000.0,
+    "currencyCode": "USD"
+   },
+   "retailPrice": {
+    "amountInMicros": 2990000.0,
+    "currencyCode": "USD"
+   },
+   "giftable": true
+  }
+ ]
+},
+"accessInfo": {
+ "country": "US",
+ "viewability": "PARTIAL",
+ "embeddable": true,
+ "publicDomain": false,
+ "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+ "epub": {
+  "isAvailable": true,
+  "acsTokenLink": "http://books.google.com/books/download/We_Should_All_Be_Feminists-sample-epub.acsm?id=70vRAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+ },
+ "pdf": {
+  "isAvailable": false
+ },
+ "webReaderLink": "http://books.google.com/books/reader?id=70vRAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+ "accessViewStatus": "SAMPLE",
+ "quoteSharingAllowed": false
+},
+"searchInfo": {
+ "textSnippet": "Argued in the same observant, witty and clever prose that has made Adichie a bestselling novelist, here is one remarkable author’s exploration of what it means to be a woman today—and an of-the-moment rallying cry for why we should all ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "6a0YvUwRlXwC",
+"etag": "OyVcuYVl7zk",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/6a0YvUwRlXwC",
+"volumeInfo": {
+ "title": "The Thing Around Your Neck",
+ "authors": "Chimamanda Ngozi Adichie",
+ "publisher": "Knopf Canada",
+ "publishedDate": "2010-06-01",
+ "description": "These twelve dazzling stories from Chimamanda Ngozi Adichie — the Orange Broadband Prize–winning author of Half of a Yellow Sun — are her most intimate works to date. In these stories Adichie turns her penetrating eye to the ties that bind men and women, parents and children, Nigeria and the United States. In “A Private Experience,” a medical student hides from a violent riot with a poor Muslim woman, and the young mother at the centre of “Imitation” finds her comfortable life in Philadelphia threatened when she learns that her husband has moved his mistress into their Lagos home. Searing and profound, suffused with beauty, sorrow and longing, this collection is a resounding confirmation of Adichie’s prodigious literary powers. From the Hardcover edition.",
+ "industryIdentifiers": [
+  {
+   "type": "ISBN_13",
+   "identifier": "9780307375230"
+  },
+  {
+   "type": "ISBN_10",
+   "identifier": "0307375234"
+  }
+ ],
+ "readingModes": {
+  "text": true,
+  "image": false
+ },
+ "pageCount": 240,
+ "printType": "BOOK",
+ "categories": [
+  "Fiction"
+ ],
+ "averageRating": 5.0,
+ "ratingsCount": 4,
+ "maturityRating": "NOT_MATURE",
+ "allowAnonLogging": true,
+ "contentVersion": "0.3.2.0.preview.2",
+  "smallThumbnail": "http://books.google.com/books/content?id=6a0YvUwRlXwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+  "thumbnail": "http://books.google.com/books/content?id=6a0YvUwRlXwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+ "language": "en",
+ "previewLink": "http://books.google.com/books?id=6a0YvUwRlXwC&printsec=frontcover&dq=Adichie&hl=&cd=4&source=gbs_api",
+ "infoLink": "http://books.google.com/books?id=6a0YvUwRlXwC&dq=Adichie&hl=&source=gbs_api",
+ "canonicalVolumeLink": "http://books.google.com/books/about/The_Thing_Around_Your_Neck.html?hl=&id=6a0YvUwRlXwC"
+},
+"saleInfo": {
+ "country": "US",
+ "saleability": "NOT_FOR_SALE",
+ "isEbook": false
+},
+"accessInfo": {
+ "country": "US",
+ "viewability": "PARTIAL",
+ "embeddable": true,
+ "publicDomain": false,
+ "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+ "epub": {
+  "isAvailable": true,
+  "acsTokenLink": "http://books.google.com/books/download/The_Thing_Around_Your_Neck-sample-epub.acsm?id=6a0YvUwRlXwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+ },
+ "pdf": {
+  "isAvailable": false
+ },
+ "webReaderLink": "http://books.google.com/books/reader?id=6a0YvUwRlXwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+ "accessViewStatus": "SAMPLE",
+ "quoteSharingAllowed": false
+},
+"searchInfo": {
+ "textSnippet": "Searing and profound, suffused with beauty, sorrow and longing, this collection is a resounding confirmation of Adichie’s prodigious literary powers. From the Hardcover edition."
+}
+},
+{
+"kind": "books#volume",
+"id": "kNv0AgAAQBAJ",
+"etag": "ygKBczC0EwM",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/kNv0AgAAQBAJ",
+"volumeInfo": {
+ "title": "One World Anthology",
+ "subtitle": "A global anthology of short stories",
+ "authors": "Chimamanda Ngozi Adichie and Jhumpa Lahiri",
+ "publisher": "New Internationalist",
+ "publishedDate": "2009-05-01",
+ "description": "Twenty-three short stories give a world tour of fiction, from both established and up-and-coming authors.",
+ "industryIdentifiers": [
+  {
+   "type": "ISBN_13",
+   "identifier": "9781906523763"
+  },
+  {
+   "type": "ISBN_10",
+   "identifier": "1906523762"
+  }
+ ],
+ "readingModes": {
+  "text": true,
+  "image": true
+ },
+ "pageCount": 192,
+ "printType": "BOOK",
+ "categories": [
+  "Fiction"
+ ],
+ "maturityRating": "NOT_MATURE",
+ "allowAnonLogging": true,
+ "contentVersion": "1.7.8.0.preview.3",
+  "smallThumbnail": "http://books.google.com/books/content?id=kNv0AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+  "thumbnail": "http://books.google.com/books/content?id=kNv0AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+ "language": "en",
+ "previewLink": "http://books.google.com/books?id=kNv0AgAAQBAJ&printsec=frontcover&dq=Adichie&hl=&cd=5&source=gbs_api",
+ "infoLink": "https://play.google.com/store/books/details?id=kNv0AgAAQBAJ&source=gbs_api",
+ "canonicalVolumeLink": "https://market.android.com/details?id=book-kNv0AgAAQBAJ"
+},
+"saleInfo": {
+ "country": "US",
+ "saleability": "FOR_SALE",
+ "isEbook": true,
+ "listPrice": {
+  "amount": 16.95,
+  "currencyCode": "USD"
+ },
+ "retailPrice": {
+  "amount": 8.98,
+  "currencyCode": "USD"
+ },
+ "buyLink": "https://play.google.com/store/books/details?id=kNv0AgAAQBAJ&rdid=book-kNv0AgAAQBAJ&rdot=1&source=gbs_api",
+ "offers": [
+  {
+   "finskyOfferType": 1,
+   "listPrice": {
+    "amountInMicros": 1.695E7,
+    "currencyCode": "USD"
+   },
+   "retailPrice": {
+    "amountInMicros": 8980000.0,
+    "currencyCode": "USD"
+   },
+   "giftable": true
+  }
+ ]
+},
+"accessInfo": {
+ "country": "US",
+ "viewability": "PARTIAL",
+ "embeddable": true,
+ "publicDomain": false,
+ "textToSpeechPermission": "ALLOWED",
+ "epub": {
+  "isAvailable": true,
+  "acsTokenLink": "http://books.google.com/books/download/One_World_Anthology-sample-epub.acsm?id=kNv0AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+ },
+ "pdf": {
+  "isAvailable": true,
+  "acsTokenLink": "http://books.google.com/books/download/One_World_Anthology-sample-pdf.acsm?id=kNv0AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+ },
+ "webReaderLink": "http://books.google.com/books/reader?id=kNv0AgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+ "accessViewStatus": "SAMPLE",
+ "quoteSharingAllowed": false
+},
+"searchInfo": {
+ "textSnippet": "Twenty-three short stories give a world tour of fiction, from both established and up-and-coming authors."
+}
+},
+{
+"kind": "books#volume",
+"id": "C7_TBwAAQBAJ",
+"etag": "ektevGGPIpI",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/C7_TBwAAQBAJ",
+"volumeInfo": {
+ "title": "Imitation",
+ "authors": "Chimamanda Ngozi Adichie",
+ "publisher": "Vintage",
+ "publishedDate": "2015-05-13",
+ "description": "A Vintage Shorts “Short Story Month” Selection Nkem is living a life of wealth and security in America, until she discovers that her husband is keeping a girlfriend back home in Nigeria. In this high-intensity story of passion and the masks we all wear, Chimamanda Ngozi Adichie, author of the acclaimed novels Half of a Yellow Sun and Americanah and winner of the Orange Prize and the National Book Critics Circle Award, explores the ties that bind men and women, parents and children, Africa and the United States. “Imitation” is a selection from Adichie’s collection The Thing Around Your Neck. An eBook short.",
+ "industryIdentifiers": [
+  {
+   "type": "ISBN_13",
+   "identifier": "9781101912294"
+  },
+  {
+   "type": "ISBN_10",
+   "identifier": "1101912294"
+  }
+ ],
+ "readingModes": {
+  "text": true,
+  "image": false
+ },
+ "pageCount": 24,
+ "printType": "BOOK",
+ "categories": [
+  "Fiction"
+ ],
+ "maturityRating": "NOT_MATURE",
+ "allowAnonLogging": true,
+ "contentVersion": "1.2.2.0.preview.2",
+  "smallThumbnail": "http://books.google.com/books/content?id=C7_TBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+  "thumbnail": "http://books.google.com/books/content?id=C7_TBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+ "language": "en",
+ "previewLink": "http://books.google.com/books?id=C7_TBwAAQBAJ&printsec=frontcover&dq=Adichie&hl=&cd=7&source=gbs_api",
+ "infoLink": "https://play.google.com/store/books/details?id=C7_TBwAAQBAJ&source=gbs_api",
+ "canonicalVolumeLink": "https://market.android.com/details?id=book-C7_TBwAAQBAJ"
+},
+"saleInfo": {
+ "country": "US",
+ "saleability": "FOR_SALE",
+ "isEbook": true,
+ "listPrice": {
+  "amount": 0.99,
+  "currencyCode": "USD"
+ },
+ "retailPrice": {
+  "amount": 0.99,
+  "currencyCode": "USD"
+ },
+ "buyLink": "https://play.google.com/store/books/details?id=C7_TBwAAQBAJ&rdid=book-C7_TBwAAQBAJ&rdot=1&source=gbs_api",
+ "offers": [
+  {
+   "finskyOfferType": 1,
+   "listPrice": {
+    "amountInMicros": 990000.0,
+    "currencyCode": "USD"
+   },
+   "retailPrice": {
+    "amountInMicros": 990000.0,
+    "currencyCode": "USD"
+   },
+   "giftable": true
+  }
+ ]
+},
+"accessInfo": {
+ "country": "US",
+ "viewability": "PARTIAL",
+ "embeddable": true,
+ "publicDomain": false,
+ "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+ "epub": {
+  "isAvailable": true,
+  "acsTokenLink": "http://books.google.com/books/download/Imitation-sample-epub.acsm?id=C7_TBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+ },
+ "pdf": {
+  "isAvailable": false
+ },
+ "webReaderLink": "http://books.google.com/books/reader?id=C7_TBwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+ "accessViewStatus": "SAMPLE",
+ "quoteSharingAllowed": false
+},
+"searchInfo": {
+ "textSnippet": "In this high-intensity story of passion and the masks we all wear, Chimamanda Ngozi Adichie, author of the acclaimed novels Half of a Yellow Sun and Americanah and winner of the Orange Prize and the National Book Critics Circle Award, ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "icXZ3--EFOsC",
+"etag": "FSz/mZr3gFM",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/icXZ3--EFOsC",
+"volumeInfo": {
+ "title": "Purple Hibiscus",
+ "authors": "Chimamanda Ngozi Adichie",
+ "publisher": "Vintage Canada",
+ "publishedDate": "2013-03-26",
+ "description": "Fifteen-year-old Kambili's world is circumscribed by the high walls and frangipani trees of her family compound. Her wealthy Catholic father, under whose shadow Kambili lives, while generous and politically active in the community, is repressive and fanatically religious at home. When Nigeria begins to fall apart under a military coup, Kambili's father sends her and her brother away to stay with their aunt, a University professor, whose house is noisy and full of laughter. There, Kambili and her brother discover a life and love beyond the confines of their father's authority. The visit will lift the silence from their world and, in time, give rise to devotion and defiance that reveal themselves in profound and unexpected ways. This is a book about the promise of freedom; about the blurred lines between childhood and adulthood, between love and hatred, between the old gods and the new.",
+ "industryIdentifiers": [
+  {
+   "type": "ISBN_13",
+   "identifier": "9780345808110"
+  },
+  {
+   "type": "ISBN_10",
+   "identifier": "0345808118"
+  }
+ ],
+ "readingModes": {
+  "text": true,
+  "image": false
+ },
+ "pageCount": 320,
+ "printType": "BOOK",
+ "categories": [
+  "Fiction"
+ ],
+ "averageRating": 4.0,
+ "ratingsCount": 51,
+ "maturityRating": "NOT_MATURE",
+ "allowAnonLogging": true,
+ "contentVersion": "1.2.2.0.preview.2",
+  "smallThumbnail": "http://books.google.com/books/content?id=icXZ3--EFOsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+  "thumbnail": "http://books.google.com/books/content?id=icXZ3--EFOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+ "language": "ar",
+ "previewLink": "http://books.google.com/books?id=icXZ3--EFOsC&dq=Adichie&hl=&cd=8&source=gbs_api",
+ "infoLink": "http://books.google.com/books?id=icXZ3--EFOsC&dq=Adichie&hl=&source=gbs_api",
+ "canonicalVolumeLink": "http://books.google.com/books/about/Purple_Hibiscus.html?hl=&id=icXZ3--EFOsC"
+},
+"saleInfo": {
+ "country": "US",
+ "saleability": "NOT_FOR_SALE",
+ "isEbook": false
+},
+"accessInfo": {
+ "country": "US",
+ "viewability": "NO_PAGES",
+ "embeddable": false,
+ "publicDomain": false,
+ "textToSpeechPermission": "ALLOWED",
+ "epub": {
+  "isAvailable": true
+ },
+ "pdf": {
+  "isAvailable": true
+ },
+ "webReaderLink": "http://books.google.com/books/reader?id=icXZ3--EFOsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+ "accessViewStatus": "NONE",
+ "quoteSharingAllowed": false
+},
+"searchInfo": {
+ "textSnippet": "This is a book about the promise of freedom; about the blurred lines between childhood and adulthood, between love and hatred, between the old gods and the new."
+}
+}
