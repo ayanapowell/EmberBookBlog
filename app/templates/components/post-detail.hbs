@@ -8,7 +8,7 @@
     <div class="col-md-7 book-info">
       <p><br>
         <strong>{{post.bookTitle}}<br>
-        By: {{post.bookAuthor}}<br></strong><br>
+        By: {{post.bookAuthor}} <br></strong><br>
         <em>From the award-winning author of Half of a Yellow Sun, a dazzling new novel: a story of love and race centered around a young man and woman from Nigeria who face difficult choices and challenges in the countries they come to call home.
         </em></p>
     </div>
@@ -21,7 +21,14 @@
   </div>
   <div class="row comments">
     <div class="col-md-5 col-md-offset-1">
-      <a><p>View comments<i class="large sort descending icon"></i></p></a>
+      <!-- <a><p>View comments<i class="large sort descending icon"></i></p></a> -->
+    </div>
+    <div class="well">
+      <p>Comments</p>
+      {{#each book.comments as |comment|}}
+        <p>h1</p>
+        {{comment-tile comment=comment}}
+      {{/each}}
     </div>
   </div>
 </div>

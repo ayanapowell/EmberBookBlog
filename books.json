@@ -1,24 +1,24 @@
 { "books": [
   {
-    "bookTitle": "TESTTTTTTT!",
+    "bookTitle": "The Thing Around Your Neck",
     "bookAuthor": "Chimamanda Ngozi Adichie",
-    "rating": 5,
-    "image": "http://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "buyLink": "https://www.amazon.com/Americanah-Chimamanda-Ngozi-Adichie/dp/0307455920/ref=sr_1_1?s=books&ie=UTF8&qid=1477501686&sr=1-1&keywords=americanah",
-    "postTitle": "Spanning three continents, entering the lives of a richly drawn cast of characters across numerous divides, Americanah is a riveting story of love and expectation set in today's globalized world.",
-    "postAuthor": "Biggy P",
-    "postDate": "October 25, 2016",
+    "rating": 4,
+    "image":"http://books.google.com/books/content?id=6a0YvUwRlXwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "buyLink": "https://www.amazon.com/Thing-Around-Your-Neck/dp/0307455912",
+    "postTitle": "Remarkable debut novel!",
+    "postAuthor": "Anna Owen",
+    "postDate": "October 5, 2016",
     "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "bookTitle": "MORE TESSTSSSSSS!",
+    "bookTitle": "Imitation",
     "bookAuthor": "Chimamanda Ngozi Adichie",
-    "rating": 5,
-    "image": "http://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "buyLink": "https://www.amazon.com/Americanah-Chimamanda-Ngozi-Adichie/dp/0307455920/ref=sr_1_1?s=books&ie=UTF8&qid=1477501686&sr=1-1&keywords=americanah",
-    "postTitle": "Spanning three continents, entering the lives of a richly drawn cast of characters across numerous divides, Americanah is a riveting story of love and expectation set in today's globalized world.",
-    "postAuthor": "Biggy P",
-    "postDate": "October 25, 2016",
+    "rating": 3,
+    "image": "http://books.google.com/books/content?id=C7_TBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "buyLink": "https://www.amazon.com/Imitation-Vintage-Short-Chimamanda-Adichie-ebook/dp/B00VOYP5XI/ref=sr_1_1?s=books&ie=UTF8&qid=1477589243&sr=1-1&keywords=imitation+chimamanda",
+    "postTitle": "A high-intensity story of passion and the masks we all wear",
+    "postAuthor": "Randall H",
+    "postDate": "September 2, 2016",
     "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
@@ -34,7 +34,7 @@
   },
   {
     "bookTitle": "Half of a Yellow Sun",
-    "author": "Chimamanda Ngozi Adichie",
+    "bookAuthor": "Chimamanda Ngozi Adichie",
     "rating": 4.0,
      "image": "http://books.google.com/books/content?id=eQh3sfhTVNsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
      "buyLink": "https://www.amazon.com/Half-Yellow-Chimamanda-Ngozi-Adichie/dp/1400095204/ref=sr_1_1?s=books&ie=UTF8&qid=1477501669&sr=1-1&keywords=half+of+a+yellow+sun",
@@ -45,7 +45,7 @@
   },
   {
     "bookTitle": "We Should All Be Feminists",
-    "author": "Chimamanda Ngozi Adichie",
+    "bookAuthor": "Chimamanda Ngozi Adichie",
     "rating": 4.0,
    "image": "http://books.google.com/books/content?id=70vRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
    "buyLink": "https://www.amazon.com/We-Should-All-Be-Feminists/dp/110191176X",
@@ -53,6 +53,14 @@
     "postAuthor": "Tom P",
     "postDate": "October 25, 2016",
     "post": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-   }
- ]
+   }],
+   "comments": [{
+    "user": "Andrea",
+    "date": "Oct 4, 2016",
+    "content": "Love the review. I agree wholeheartedly"
+  }, {
+    "user": "Alex",
+    "date": "Jan 19, 2016",
+    "content": "I agree"
+  }]
 }

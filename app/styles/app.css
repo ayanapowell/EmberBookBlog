@@ -15,12 +15,16 @@ h3 {
   color: #2eb8b8;
 }
 
+.header-title:hover {
+  text-decoration: none;
+}
 .image {
   width: 82%;
   margin-left: 9%;
   height: 500px;
   background: url("https://www.bellanaija.com/wp-content/uploads/2014/07/Chimamanda-Ngozi-Adichie-July-2014-BN-Beauty-BellaNaija.com-02.jpg");
   background-repeat: no-repeat;
+  box-shadow: 2px 3px 5px #b2b2b2;
 }
 
 .nav {
@@ -88,6 +92,7 @@ h3 {
 .sidebar-brand {
   margin-top: 10;
 }
+
 .close {
   padding-bottom: 20px;
   color: #fff;

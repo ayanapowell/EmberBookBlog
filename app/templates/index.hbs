@@ -1,7 +1,6 @@
 <div>
-  <div class="image">
-  </div>
-  {{#each model as |book|}}
+  <div class="image"></div>
+  {{#each model.books as |book|}}
     {{blog-post book=book}}
   {{/each}}
 </div>

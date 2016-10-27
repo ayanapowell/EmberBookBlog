@@ -10,4 +10,5 @@ export default DS.Model.extend({
   postAuthor: DS.attr(),
   postDate: DS.attr(),
   post: DS.attr()
+  comments: DS.hasMany('comment', { async: true })
 });
