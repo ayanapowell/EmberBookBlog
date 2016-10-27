@@ -5,7 +5,7 @@
       <a href="{{book.buyLink}}" target="_blank"><img src="{{book.image}}"></a>
     </div>
     <div class="col-md-8 post-content">
-     <h4 class="post-title">{{book.postTitle}}</h4>
+    {{#link-to 'post' book.id}} <h4 class="post-title">{{book.postTitle}}</h4>{{/link-to}}
      <p>{{book.post}}</p>
     </div>
   </div>

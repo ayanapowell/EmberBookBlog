@@ -1,0 +1,27 @@
+<div class="well this-post">
+  <h5 class="post-date">{{post.postDate}}</h5>
+  <div class="row content">
+    <div class="col-md-3 col-md-offset-1">
+      <img src="{{post.image}}">
+      <a href="{{post.buyLink}}" target="_blank"><p class="link">(click to view)</p></a>
+    </div>
+    <div class="col-md-7 book-info">
+      <p><br>
+        <strong>{{post.bookTitle}}<br>
+        By: {{post.bookAuthor}}<br></strong><br>
+        <em>From the award-winning author of Half of a Yellow Sun, a dazzling new novel: a story of love and race centered around a young man and woman from Nigeria who face difficult choices and challenges in the countries they come to call home.
+        </em></p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-11 full-post">
+    <h4>{{post.postTitle}} <br><span class="author">By: {{post.postAuthor}}</span></h4>
+     <p>{{post.post}}</p>
+    </div>
+  </div>
+  <div class="row comments">
+    <div class="col-md-5 col-md-offset-1">
+      <a><p>View comments<i class="large sort descending icon"></i></p></a>
+    </div>
+  </div>
+</div>

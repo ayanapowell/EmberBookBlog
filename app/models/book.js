@@ -2,7 +2,7 @@ import DS from 'ember-data';
 
 export default DS.Model.extend({
   bookTitle: DS.attr(),
-  author: DS.attr(),
+  bookAuthor: DS.attr(),
   rating: DS.attr(),
   image: DS.attr(),
   buyLink: DS.attr(),
