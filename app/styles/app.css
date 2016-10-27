@@ -18,6 +18,7 @@ h3 {
 .header-title:hover {
   text-decoration: none;
 }
+
 .image {
   width: 82%;
   margin-left: 9%;
@@ -191,12 +192,24 @@ h3 {
   padding-left: 5px;
 }
 
-.comments p {
+.view-comments p {
   padding-top: 15px;
   font-size: 17px;
   cursor: pointer;
 }
 /* ---------- admin ----------*/
+.admin-page h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 4px;
+  margin: 40px 0 50px 0;
+  width: 80%;
+  margin-left: 10%;
+}
+
 .update-form {
   background-color: #fff;
   padding: 50px;

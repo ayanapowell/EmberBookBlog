@@ -4,7 +4,6 @@ export default Ember.Component.extend({
   addNewPost: false,
   actions: {
     postFormShow() {
-      alert("hi");
       this.set('addNewPost', true);
     },
     savePost() {
@@ -17,7 +16,7 @@ export default Ember.Component.extend({
         postTitle: this.get('postTitle'),
         postAuthor: this.get('postAuthor'),
         postDate: this.get('postDate'),
-        post: this.get('post')
+        post: this.get('comment')
       };
       this.set('addNewPost', false);
       this.sendAction('savePost',params);

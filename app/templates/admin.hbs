@@ -1,8 +1,10 @@
 <br>
-<h2>Dashboard</h2>
-{{new-post savePost="savePost"}}
-<div>
-  {{#each model as |book|}}
-    {{admin-post book=book update="update" destroyPost="destroyPost" savePost="savePost"}}
-  {{/each}}
+<div class="admin-page">
+  <h2>Dashboard</h2>
+  {{new-post savePost="savePost"}}
+  <div>
+    {{#each model as |book|}}
+      {{admin-post book=book update="update" destroyPost="destroyPost" savePost="savePost"}}
+    {{/each}}
+  </div>
 </div>
