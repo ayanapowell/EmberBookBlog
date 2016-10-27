@@ -19,15 +19,11 @@
      <p>{{post.post}}</p>
     </div>
   </div>
-  <div class="row view-comments">
-    <div class="col-md-5 col-md-offset-1">
-      <a><p>View comments<i class="large sort descending icon"></i></p></a>
+</div>
+<div class="all-comments">
+  {{#each post.comments as |comment|}}
+    <div class="ui comments each-comment">
+      {{comment-tile comment=comment}}
     </div>
-    {{#each post.comments as |comment|}}
-      <div class="well">
-        <h1>Helo!!!</h1>
-        {{comment-tile comment=comment}}
-      </div>
-    {{/each}}
-  </div>
+  {{/each}}
 </div>

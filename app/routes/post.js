@@ -13,6 +13,9 @@ export default Ember.Route.extend({
         return book.save();
       });
       this.transitionTo('post', book);
+    },
+    commentFormShow() {
+      this.set('commentFormShow');
     }
   }
 });

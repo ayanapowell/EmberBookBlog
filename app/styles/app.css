@@ -145,11 +145,33 @@ h3 {
   background-color:
 }
 
+.leave-comment {
+}
+
+.leave-comment:hover {
+  color: #000;
+}
+
 .this-post {
   margin-top: 45px;
   background-color: #fff;
   width: 80%;
   margin-left: 10%;
+}
+
+.all-comments {
+  width: 80%;
+  margin-left: 10%;
+  /*box-shadow: 3px 3px 5px #d9d9d9;*/
+}
+
+.each-comment {
+  padding-left: 6px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.each-comment p {
+  font-size: 16px;
 }
 
 .link {
@@ -196,6 +218,13 @@ h3 {
   padding-top: 15px;
   font-size: 17px;
   cursor: pointer;
+}
+
+.show-comment-form {
+  position: absolute;
+  margin-top: 0px;
+  z-index: 5;
+
 }
 /* ---------- admin ----------*/
 .admin-page h2 {
