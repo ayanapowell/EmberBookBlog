@@ -107,6 +107,10 @@ h3 {
   color: black;
 }
 
+#review-form {
+  display: none;
+  margin-bottom: 50px;
+}
 /* ------ posts ----- */
 
 .post-date {
@@ -115,12 +119,16 @@ h3 {
   font-family:'Josefin Sans', sans-serif;
 }
 
-.post-title {
+.post-title, .post-title2{
   font-family: 'Josefin Sans', sans-serif;
   font-size: 19px;
   color: #666;
   padding-bottom: 10px;
   padding-left: 20px;
+}
+
+.post-title2 {
+  padding-bottom: 0px;
 }
 
 .post-title:hover {
@@ -227,6 +235,11 @@ h3 {
 
 }
 /* ---------- admin ----------*/
+
+.edit {
+  cursor: pointer;
+}
+
 .admin-page h2 {
   font-family: 'Cormorant Garamond', serif;
   font-weight: bold;
@@ -237,6 +250,20 @@ h3 {
   margin: 40px 0 50px 0;
   width: 80%;
   margin-left: 10%;
+}
+
+.post-new {
+  padding: 50px;
+  padding-top: 30px;
+  width: 80%;
+  margin-left: 10%;
+  height: 550px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.post-author {
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .update-form {

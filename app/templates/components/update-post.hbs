@@ -38,5 +38,5 @@
     </form>
   </div>
 {{else}}
-    <button class="btn btn-default" {{action 'updatePostForm' book}}>Edit</button>
+    <a class="edit" {{action 'updatePostForm' book}}><i class="write icon"></i>&nbsp;Edit</a>
 {{/if}}

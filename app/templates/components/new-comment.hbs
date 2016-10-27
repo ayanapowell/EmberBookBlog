@@ -1,4 +1,4 @@
-{{#if addNewComment}}
+  <div id="review-form">
     <div class="review">
       <h1>Leave a comment</h1>
       <form>
@@ -11,9 +11,7 @@
         <div class="form-group">
           {{textarea class="form-control" value=content id="content" placeholder="content"}}
         </div>
-        <button {{action 'saveComment'}}>Post</button>
+        <button class="btn btn-default center-block" {{action 'saveComment'}}>Post</button>
       </form>
     </div>
-{{else}}
-  <a class="leave-comment" {{action 'commentFormShow'}}><i class="icon edit"></i>Leave a comment</a>
-{{/if}}
+  </div>

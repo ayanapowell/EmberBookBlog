@@ -7,6 +7,7 @@ export default Ember.Component.extend({
       this.set('addNewComment', true);
     },
     saveComment() {
+      $('#review-form').hide();
       var params = {
         user: this.get('user'),
         date: this.get('date'),
