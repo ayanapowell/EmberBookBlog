@@ -1,6 +1,6 @@
 # Book Blog
 
-A book blog using Google Books API
+A book blog using Google Books API. This page can be viewed at: https://book-blog.herokuapp.com
 
 ## Prerequisites
 
